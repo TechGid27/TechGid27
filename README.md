@@ -39,10 +39,6 @@
 
 ---
 
-### 📊 GitHub Stats (Compact)
-![Gideon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechGid27&show_icons=true&theme=dark&hide_border=true&layout=compact)
-
----
 
 
 ### 🔗 Connect with Me
