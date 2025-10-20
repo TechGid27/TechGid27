@@ -48,6 +48,7 @@ I love turning ideas into fully functional websites and learning new technologie
 ![Make](https://img.shields.io/badge/Make.com-FF6D00?style=for-the-badge&logo=make&logoColor=white) 
 ![GoDaddy](https://img.shields.io/badge/GoDaddy-7DB700?style=for-the-badge&logo=godaddy&logoColor=white) 
 ![Apache](https://img.shields.io/badge/Apache-FC6C0C?style=for-the-badge&logo=apache&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
