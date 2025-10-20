@@ -59,8 +59,8 @@ I love turning ideas into fully functional websites and learning new technologie
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechGid27&show_icons=true&theme=radical" width="300"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechGid27&layout=compact&theme=radical" width="300"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=TechGid27&show_icons=true&theme=radical" width="300"/>  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechGid27&layout=compact&theme=radical" width="300"/>  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechGid27&theme=radical" width="300"/>
 </div>
 
