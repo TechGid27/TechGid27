@@ -4,7 +4,7 @@
 Hey! I'm a web developer from the Philippines.  
 I love turning ideas into fully functional websites and learning new technologies along the way.  
 
-- 🌱 Currently learning **Spring Boot, Laravel, and React**  
+- 🌱 Currently learning **Laravel, and Vue.js**  
 - 👯 Looking to collaborate on **web development projects**  
 - 💬 Ask me about **PHP, JavaScript, MySQL, Frontend & Backend Development**  
 - ⚡ Fun fact: I enjoy making coding and design projects look clean and professional  
