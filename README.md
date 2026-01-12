@@ -59,16 +59,15 @@ I love turning ideas into fully functional websites and learning new technologie
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechGid27&show_icons=true&theme=radical" width="300"/>  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechGid27&layout=compact&theme=radical" width="300"/>  <br>
-</div>
+<p align="center">
+  <img src="https://metrics.lecoq.io/TechGid27?base=header,activity,community,repositories,metadata&config.timezone=UTC" alt="GitHub Metrics" />
+</p>
 
 ---
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gideonayao/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gideon-26e30.web.app) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://gideon-26e30.web.app](https://gideonayao-portfolio.vercel.app)) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gideonayao) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gideon25.27)
 
