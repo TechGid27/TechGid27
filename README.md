@@ -31,13 +31,11 @@
 
 ## 🛠️ Currently Learning / Learning Tech Stack
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI%20Engineer-In%20Progress-0ea5e9?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mobile%20Dev-Expo%20%7C%20React%20Native-000000?style=for-the-badge&logo=expo&logoColor=white"/>
-
+<div align="center"> 
+  <img src="https://img.shields.io/badge/AI%20Engineering-In%20Progress-0ea5e9?style=for-the-badge&logo=openai&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/React%20Native%20Expo-Mobile%20Development-000000?style=for-the-badge&logo=expo&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Next.js-Full%20Stack%20Apps-black?style=for-the-badge&logo=next.js&logoColor=white"/> 
 </div>
-
 
 
 ---
