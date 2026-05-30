@@ -40,9 +40,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TechGid27&show_icons=true&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=TechGid27&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechGid27&layout=compact&theme=tokyonight"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TechGid27&theme=tokyonight" />
 
 </div>
 
@@ -51,7 +51,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gideonayao&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=TechGid27&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
