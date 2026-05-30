@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,vue,mysql,mongodb,java,spring,wordpress,git,figma,postman,n8n,figma,firebase,sqlexpress,kotlin,aspnet"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,vue,mysql,mongodb,java,spring,wordpress,git,figma,postman,n8n,figma,firebase,kotlin,csharp"/>
 
 </div>
 
