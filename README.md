@@ -49,7 +49,7 @@
 🗄️ Databases
 <div align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" /> </div>
 📱 Mobile Development
-<div align="center"> <img src="https://skillicons.dev/icons?i=react,kotlin" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=react,kotlin,dart" /> </div>
 🧰 Tools & Others
 <div align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,figma,n8n,wordpress,docker" /> </div>
 
