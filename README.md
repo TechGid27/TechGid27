@@ -29,6 +29,18 @@
 
 ---
 
+## 🛠️ Currently Learning / Learning Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,express,graphql,expo,aws" />
+</div>
+
+---
+
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
