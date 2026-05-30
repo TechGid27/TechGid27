@@ -42,11 +42,16 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,vue,mysql,mongodb,java,spring,wordpress,git,figma,postman,n8n,figma,firebase,kotlin,csharp"/>
-
-</div>
+⚡ Frontend Development
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue" /> </div>
+⚙️ Backend Development
+<div align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,spring" /> </div>
+🗄️ Databases
+<div align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" /> </div>
+📱 Mobile Development
+<div align="center"> <img src="https://skillicons.dev/icons?i=react,kotlin" /> </div>
+🧰 Tools & Others
+<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,figma,n8n,wordpress,docker" /> </div>
 
 ---
 
