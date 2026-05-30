@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,vue,mysql,mongodb,java,spring,wordpress,git,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,vue,mysql,mongodb,java,spring,wordpress,git,figma,postman,n8n,figma"/>
 
 </div>
 
@@ -48,13 +48,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TechGid27&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -82,4 +75,4 @@
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,100:8b5cf6"/>
