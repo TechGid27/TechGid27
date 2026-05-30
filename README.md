@@ -16,6 +16,9 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RrYWNhdDg3bXR6MDRzNGl5YzN6MzYwcnI1cTB2bWgwNGExdnhzNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
+Full-Stack Developer focused on building scalable, performant, and user-friendly applications across web and mobile platforms.
+Currently expanding into mobile development (React Native) and AI engineering (agent-based systems & automation).
+
 - 🌏 Based in the Philippines
 - 💻 Full-Stack Web Developer
 - 🌱 Currently working with Laravel, React, Vue.js, and WordPress
@@ -42,15 +45,15 @@
 
 ## 🛠️ Tech Stack
 
-⚡ Frontend Development
+💻 Frontend
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue" /> </div>
-⚙️ Backend Development
+⚙️ Backend
 <div align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,spring" /> </div>
-🗄️ Databases
+🗄️ Database
 <div align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" /> </div>
-📱 Mobile Development
-<div align="center"> <img src="https://skillicons.dev/icons?i=react,kotlin,dart" /> </div>
-🧰 Tools & Others
+📱 Mobile
+<div align="center"> <img src="https://skillicons.dev/icons?i=react,kotlin" /> </div>
+🧰 Tools
 <div align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,figma,n8n,wordpress,docker" /> </div>
 
 ---
