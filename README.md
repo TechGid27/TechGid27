@@ -21,6 +21,9 @@
 - 🌱 Currently working with Laravel, React, Vue.js, and WordPress
 - 🔧 Experienced in API Integration & Database Design
 - 🚀 Building scalable and user-friendly applications
+  <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=TechGid27&label=Profile%20views&color=ff79c6&style=flat-square" alt="kaids77" />
+</p>
 
 <br clear="right"/>
 
