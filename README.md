@@ -33,10 +33,10 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,express,graphql,expo,aws" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,express,graphql,expo,aws" />
+<img src="https://img.shields.io/badge/AI%20Engineer-Learning-blue?style=for-the-badge&logo=openai&logoColor=white"/>
 </div>
 
----
 
 
 ---
