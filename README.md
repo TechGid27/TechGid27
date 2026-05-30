@@ -33,8 +33,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,express,graphql,expo,aws" />
-<img src="https://img.shields.io/badge/AI%20Engineer-Learning-blue?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Engineer-In%20Progress-0ea5e9?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mobile%20Dev-Expo%20%7C%20React%20Native-000000?style=for-the-badge&logo=expo&logoColor=white"/>
+
 </div>
 
 
