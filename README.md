@@ -21,9 +21,11 @@ Currently expanding into mobile development (React Native) and AI engineering (a
 
 - 🌏 Based in the Philippines
 - 💻 Full-Stack Web Developer
-- 🌱 Currently working with Laravel, React, Vue.js, and WordPress
-- 🔧 Experienced in API Integration & Database Design
-- 🚀 Building scalable and user-friendly applications
+- 📱 React Native (Expo) Developer
+- 🤖 Exploring AI Engineering & AI Agents
+- 🔧 API & Database System Design
+
+  
   <p align="left">
   <img src="https://komarev.com/ghpvc/?username=TechGid27&label=Profile%20views&color=ff79c6&style=flat-square" alt="kaids77" />
 </p>
@@ -32,7 +34,15 @@ Currently expanding into mobile development (React Native) and AI engineering (a
 
 ---
 
+## 💼 Freelance Experience
+🧑‍💻 Freelance WordPress Developer (Active)
+⚙️ Develop and customize WordPress websites for clients
+🔧 Theme customization, plugin integration, and performance optimization
+🚀 Focus on responsive UI, SEO basics, and user experience improvements
+
 ## 🛠️ Currently Learning / Learning Tech Stack
+
+---
 
 <div align="center"> 
   <img src="https://img.shields.io/badge/AI%20Engineering-In%20Progress-0ea5e9?style=for-the-badge&logo=openai&logoColor=white"/> 
