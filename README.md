@@ -34,16 +34,6 @@ Currently expanding into mobile development (React Native) and AI engineering (a
 
 ---
 
-## 💼 Freelance Experience
-🧑‍💻 Freelance WordPress Developer (Active)
-⚙️ Develop and customize WordPress websites for clients
-🔧 Theme customization, plugin integration, and performance optimization
-🚀 Focus on responsive UI, SEO basics, and user experience improvements
-
-## 🛠️ Currently Learning / Learning Tech Stack
-
----
-
 <div align="center"> 
   <img src="https://img.shields.io/badge/AI%20Engineering-In%20Progress-0ea5e9?style=for-the-badge&logo=openai&logoColor=white"/> 
   <img src="https://img.shields.io/badge/React%20Native%20Expo-Mobile%20Development-000000?style=for-the-badge&logo=expo&logoColor=white"/> 
