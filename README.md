@@ -56,7 +56,7 @@ Currently expanding into mobile development (React Native) and AI engineering (a
 📱 Mobile
 <div align="center"> <img src="https://skillicons.dev/icons?i=react,flutter,kotlin" /> </div>
 🧰 Tools
-<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,figma,make,wordpress,docker" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,figma,make,wordpress,docker" /> <img src="https://img.shields.io/badge/n8n-Automation-FE7A16?style=for-the-badge&logo=n8n&logoColor=white"/> </div>
 
 ---
 
