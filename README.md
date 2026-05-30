@@ -54,7 +54,7 @@ Currently expanding into mobile development (React Native) and AI engineering (a
 📱 Mobile
 <div align="center"> <img src="https://skillicons.dev/icons?i=react,flutter,kotlin" /> </div>
 🧰 Tools
-<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,figma,n8n,wordpress,docker" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,canva,n8n,wordpress,docker" /> </div>
 
 ---
 
