@@ -24,6 +24,7 @@ Currently expanding into mobile development (React Native) and AI engineering (a
 - 📱 React Native (Expo) Developer
 - 🤖 Exploring AI Engineering & AI Agents
 - 🔧 API & Database System Design
+- Exploring AWS  
 
   
   <p align="left">
