@@ -172,7 +172,7 @@ I'm open to collaborating on projects, connecting with fellow developers, and ex
 <a href="https://www.linkedin.com/in/gideonayao/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:gideonayao@gmail.com">
   <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email"/>
 </a>
 
