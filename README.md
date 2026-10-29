@@ -160,30 +160,43 @@ My current learning priorities include improving application architecture, stren
 
 ---
 
-## Connect With Me
+## Let's Connect
 
-I'm open to connecting with developers, collaborating on projects, and discussing web development opportunities.
+I'm open to collaborating on projects, connecting with fellow developers, and exploring opportunities to build meaningful digital experiences.
 
 <div align="center">
 
 <a href="https://gideonayao.pages.dev">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website"/>
+  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/gideonayao/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
-<a href="https://github.com/TechGid27">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email"/>
 </a>
 
+<br/>
+
+<a href="https://github.com/TechGid27">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 <a href="https://www.facebook.com/gideonayao">
-  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 <a href="https://www.instagram.com/gideon25.27">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
+<br/><br/>
+
+**Have a project in mind? Let's build something useful together.**
+
+[Visit my portfolio →](https://gideonayao.pages.dev)
+
 </div>
+
+
 
 ---
 
