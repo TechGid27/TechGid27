@@ -124,11 +124,10 @@ My current learning priorities include improving application architecture, stren
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TechGid27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <!-- Alternative Stats Server -->
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TechGid27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechGid27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used programming languages"/>
-
-<img width="100%" src="https://github-readme-streak-stats.demolab.com?user=TechGid27&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TechGid27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used programming languages"/>
 
 </div>
 
