@@ -57,6 +57,7 @@ My approach is centered on continuous learning, practical problem-solving, and w
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,postgres" alt="Database technologies"/>
 </p>
+  <img src="https://img.shields.io/badge/Neo4j-Graph%20Database-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j Graph Database"/>
 
 ### Mobile Development
 
